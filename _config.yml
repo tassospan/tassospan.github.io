@@ -18,3 +18,7 @@ github_username:  tassospan
 
 # Build settings
 markdown: kramdown
+
+# AddThis settings
+addthis:
+  pubid: ra-56697b0ce328902f
