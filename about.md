@@ -13,11 +13,11 @@ tourism professional.
 
 ---
 
-**Regular** _Dancer (Borned to be) 
+**Regular**  _Dancer_ (Borned to be) 
 
 ---
 
-**Founder** of [fifart](http://fifart.net) - Web Design & Development studio.
+**Founder** of [fifart](http://fifart.net) - Web Design & Development studio (tends to be..).
 
 ---
 
