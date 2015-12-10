@@ -21,8 +21,12 @@
     &,
     &:visited {
         color: $grey-color-dark;
-        text-decoration: none;
+       
     }
+}
+
+.site-title a {
+     text-decoration: none;
 }
 
 .site-nav {
