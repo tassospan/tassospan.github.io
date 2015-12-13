@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-In love with Iro, Irene and Tech. Part time designer, developer photographer. Web Enthusiast, gadget passionated, eternal traveller,
+In love with Iro, Irene and Tech. Long time designer, developer photographer. Web Enthusiast, gadget passionated, eternal traveller,
 tourism professional.
 
 ---
