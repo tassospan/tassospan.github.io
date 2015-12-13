@@ -1,24 +1,7 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Tassos P. - Personal Blog
-brandname: T_Blog
-email: tassospan@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-  A blog about technology, IT, development, books, reviews & not only
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tassospan.github.io/" # the base hostname & protocol for your site
-twitter_username: _TassosP_
-github_username:  tassospan
-
-# Build settings
-markdown: kramdown
-
-# AddThis settings
-addthis:
-  pubid: ra-56697b0ce328902f
+title: Modern Blog
+description: Modern-Blog A Elegant template for Jekyll
+keywords: Modern, Blogging, Fun
+author: Wferr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
