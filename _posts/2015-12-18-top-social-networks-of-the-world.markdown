@@ -8,7 +8,7 @@ image: /assets/article_images/social-network.jpg
 ---
 
 ##Now that this year is ending have you wandered who's the first in the neighborhood of all Top Social Networks in the world and who 're the giants coming from the East?
-> Let's examine bellow the current position as it is shown on [eBizMBA](http://www.ebizmba.com/articles/social-networking-websites) Ranking as well as [TheNextWeb](http://thenextweb.com/apps/2014/08/13/wechat-climbs-to-438-million-monthly-active-users-closing-in-on-whatsapps-500-million/).
+> Let's examine bellow the current position as it is shown on [eBizMBA](http://www.ebizmba.com/articles/social-networking-websites) Ranking as well as on the [TheNextWeb](http://thenextweb.com/apps/2014/08/13/wechat-climbs-to-438-million-monthly-active-users-closing-in-on-whatsapps-500-million/).
 
 
 ####No 1 [Facebook](http://www.facebook.com/) 1.100.000.000 Members
@@ -53,7 +53,7 @@ image: /assets/article_images/social-network.jpg
 
 ---
 
-> This list above would be tottaly correct if we had included also the Chinese Mega Networks
+> This list above would be totally correct if we had included also the Chinese Mega Networks
 
 
 ###No 1 [WeChat](http://www.wechat.com/en/) 600.000.000 Members
