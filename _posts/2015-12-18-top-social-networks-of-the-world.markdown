@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Wander who's the first.... and what is this... coming from the East?"
+title:  "Wander who's the first Social Network in the World for 2015....?"
 date:   2015-12-18 16:30:00
 categories: internet 
 tags: featured
 image: /assets/article_images/social-network.jpg
 ---
 
-##Now that this year is ending have you wandered who's the first in the neighborhood of all Top Social Networks in the world and who 're the giants coming from the East?
+##Have you wandered who's the first in the neighborhood of all Top Social Networks in the world and who are the giants coming from the East?
 > Let's examine bellow the current position as it is shown on [eBizMBA](http://www.ebizmba.com/articles/social-networking-websites) Ranking as well as on the [TheNextWeb](http://thenextweb.com/apps/2014/08/13/wechat-climbs-to-438-million-monthly-active-users-closing-in-on-whatsapps-500-million/).
 
 

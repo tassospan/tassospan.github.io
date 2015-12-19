@@ -19,7 +19,7 @@ name: 'Tassos P.'
 author: 'Tassos P.'
 author_image: "/assets/images/author_tp.jpg"
 
-paginate:	5
+paginate:	4
 
 url: "https://tassospan.github.io" # the base hostname & protocol for your site
 baseurl: ""
